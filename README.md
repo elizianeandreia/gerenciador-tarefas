@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Três colunas de status: **A Fazer**, **Em Progresso** e **Concluído**  
 - Criar novas tarefas em qualquer coluna  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - [Vue.js 3](https://vuejs.org/)  
 - [Vue Draggable](https://github.com/SortableJS/vue.draggable.next)  
@@ -25,7 +25,7 @@
 
 ---
 
-## 📥 Como usar
+##  Como usar
 
 ### 1. Clone o repositório
 
@@ -37,5 +37,5 @@ cd gerenciador-tarefas
 ### 3. Rode o projeto :npm run dev
 ### 4. Abra no navegador :Acesse http://localhost:5173 para ver o app rodando.
 
-Feito com ❤️ por Eliziane Junckes.
+
 
